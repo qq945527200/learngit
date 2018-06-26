@@ -7,4 +7,4 @@ Creating a new branch is quick and simple.
 =======
 Creating a new branch is quick and simple.
 >>>>>>> feature1
-I feel so bad.
+I feel so bad.And I want eat food.
