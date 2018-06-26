@@ -7,4 +7,8 @@ Creating a new branch is quick and simple.
 =======
 Creating a new branch is quick and simple.
 >>>>>>> feature1
-I feel so bad.And I want eat food.
+<<<<<<< Updated upstream
+I want eat food.
+=======
+I want eat food.
+>>>>>>> Stashed changes
